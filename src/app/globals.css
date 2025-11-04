@@ -19,6 +19,24 @@
   }
 }
 
+@layer utilities {
+  .masked-img {
+      mask-image: url("/images/ticket.png");
+      mask-repeat: no-repeat;
+      mask-position: center;
+      mask-size: 50%;
+  }
+}
+
+@font-face {
+  font-family: 'Great Vibes';
+  src: url('/fonts/great_vibes/GreatVibes-Regular.ttf') format('truetype');
+}
+
+.font-great-vibes {
+  font-family: 'Great Vibes', cursive;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);

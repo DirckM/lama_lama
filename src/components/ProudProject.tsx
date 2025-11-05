@@ -100,7 +100,9 @@ function ProudProject() {
             </div>
             <div className='hidden-content flex flex-col justify-center items-center gap-2 opacity-0 -py-10 md:p-20'>
                 <h3 className='text-[#D7F3F5] text-2xl font-bold'>Teckit</h3>
-                <p className='text-gray-400 w-full text-sm w-full md:max-w-[50%] text-center'>orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <p className='text-gray-400 w-full text-sm w-full md:max-w-[50%] text-center'>
+                Teckit is an all-in-one platform for event managers that I helped build from the ground up, with a dashboard that actually makes sense, smooth ticketing, and fast mobile scanning. I’m proud of it because we took scattered, messy workflows and turned them into something clear and dependable. It pushed me to make real UX tradeoffs, ship production-ready code with React, Next.js, NestJS, and Prisma, and collaborate tightly from first sketch to deployment. It’s proof that I can take a complex problem, listen to users, and turn it into a product people genuinely want to use.
+                </p>
             </div>
         </div>
     </div>

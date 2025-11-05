@@ -104,23 +104,24 @@ function MotivationAndGoals() {
         <div id='text_why' className='absolute top-0 right-14 sm:right-20 md:right-24 lg:right-40 max-w-[35%] sm:max-w-[25%]'>
             <h2 className='text-[#D7F3F5] text-2xl sm:text-3xl md:text-4xl font-bold mb-4'>Why Lama Lama</h2>
             <p className='text-gray-400 text-sm sm:text-base md:text-lg'>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+            When I walked into your office, I could immediately sense the creative energy of a young team with a great eye for design. Combined with the awesome projects you’ve built, it feels like the perfect place for me to grow my skills and help create amazing work.
+                
             </p>
         </div>
 
         {/* "Proud Work" - Left side, between icon 1 and icon 3 */}
         <div id='text_proud' className='absolute top-80 left-14 sm:left-20 md:left-24 lg:left-40 max-w-[35%] sm:max-w-[25%]'>
-            <h2 className='text-[#D7F3F5] text-2xl sm:text-3xl md:text-4xl font-bold mb-4'>Proud Work</h2>
+            <h2 className='text-[#D7F3F5] text-2xl sm:text-3xl md:text-4xl font-bold mb-4'>Why Me</h2>
             <p className='text-gray-400 text-sm sm:text-base md:text-lg'>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
+                I believe I can bring a lot of creativity to the team. Combined with my drive to build and finish things, I’m confident I’d be a valuable addition to your team. 
             </p>
         </div>
 
         {/* "Future Project" - Right side, below icon 2 */}
         <div id='text_future' className='absolute top-160 right-14 sm:right-20 md:right-24 lg:right-40 max-w-[35%] sm:max-w-[25%]'>
-            <h2 className='text-[#D7F3F5] text-2xl sm:text-3xl md:text-4xl font-bold mb-4'>Future Project</h2>
+            <h2 className='text-[#D7F3F5] text-2xl sm:text-3xl md:text-4xl font-bold mb-4'>What I Bring</h2>
             <p className='text-gray-400 text-sm sm:text-base md:text-lg'>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                I’m eager to learn how you approach projects from concept to final design and to see how creative ideas evolve within a collaborative team. I believe this experience will help me grow into a better designer and creator.
             </p>
         </div>
     </section>
